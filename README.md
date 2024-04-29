@@ -30,18 +30,18 @@ I thrive on tackling challenging projects in these fields and am always excited 
    - JavaScript (beginner level)
    - PHP (beginner level)
 
-7. **Data Visualization:**
+6. **Data Visualization:**
    - Matplotlib
    - Seaborn
    - Power BI
 
-8. **Integrated Development Environments (IDEs) and Text Editors:**
+7. **Integrated Development Environments (IDEs):**
    - Visual Studio Code (VSCode)
 
-9. **Cloud-based Notebooks:**
+8. **Cloud-based Notebooks:**
    - Google Colab
 
-10. **Graphic Design and Image Editing:**
+9. **Graphic Design and Image Editing:**
    - Adobe Photoshop (beginner level)
    - Canva
 
