@@ -6,9 +6,9 @@ I'm passionate about diving into the world of big data analytics and machine lea
 I thrive on tackling challenging projects in these fields and am always excited to apply my knowledge to real-world problems. Let's connect and explore the endless possibilities of big data analytics and machine learning together!
 
 1. **Office Productivity:**
-   - Microsoft Word
-   - Excel
-   - PowerPoint
+   - MS Word
+   - MS Excel
+   - MS PowerPoint
 
 2. **Cloud Productivity:**
    - Google Workspace (formerly G Suite)
@@ -17,8 +17,9 @@ I thrive on tackling challenging projects in these fields and am always excited 
    - PostgreSQL
    - MySQL
 
-4. **Programming and Scripting:**
+4. **Programming and Data Handling:**
    - Python
+   - C
    - Pandas
    - NumPy
    - Scikit-learn
@@ -35,13 +36,10 @@ I thrive on tackling challenging projects in these fields and am always excited 
    - Seaborn
    - Power BI
 
-7. **Integrated Development Environments (IDEs):**
-   - Visual Studio Code (VSCode)
-
-8. **Cloud-based Notebooks:**
+7. **Cloud-based Notebooks:**
    - Google Colab
 
-9. **Graphic Design and Image Editing:**
+8. **Graphic Design and Image Editing:**
    - Adobe Photoshop (beginner level)
    - Canva
 
