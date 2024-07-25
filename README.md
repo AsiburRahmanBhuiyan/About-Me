@@ -46,6 +46,4 @@ I thrive on tackling challenging projects in these fields and am always excited 
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/asibur-rahman-bhuiyan/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asibur" height="30" width="40" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com/AsiburRahmanBhuiyan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asibur" height="30" width="40" style="max-width: 100%;"></a>
-
 
